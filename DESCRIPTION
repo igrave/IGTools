@@ -1,0 +1,12 @@
+Package: IGtools
+Type: Package
+Title: Isaac's Handy Tools for Rmd and Docx
+Version: 0.1.1
+Author: Isaac Gravestock
+Maintainer: Isaac Gravestock <isaac.gravestock@gmail.com>
+Description: Useful functions for preparing manuscripts using Rmd and Word, mostly for formatting tables.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: broom, flextable, gdtools, utils
